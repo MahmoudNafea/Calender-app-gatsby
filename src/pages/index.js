@@ -1,6 +1,6 @@
 import React from "react"
 import { Link } from 'gatsby'
-import '../styles/index.css'
+import '../styles/index.scss'
 
 const IndexPage = () => {
     return (
